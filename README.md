@@ -18,7 +18,7 @@
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-n16h70wl55-FF6633?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/n16h70wl55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-tayab-bashir-694b84125/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://muhammad-tayab.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00FF41?style=for-the-badge&logo=githubpages&logoColor=black)](https://muhammad-tayab.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayyabbashir461@gmail.com)
 
 <br/>
