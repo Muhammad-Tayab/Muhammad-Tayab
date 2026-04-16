@@ -43,7 +43,7 @@
 ```yaml
 Name     : Muhammad Tayab Bashir
 Role     : Penetration Tester & Security Researcher
-Company  : Cyber Silo Pvt. Ltd.  [Aug 2023 – Dec 2025]
+Company  : Cyber Silo Pvt. Ltd.  [Mar 2024 – Dec 2025]
 Focus    : Web Pentesting · Network Security · OSINT · Bug Bounty
 Status   : ● ONLINE  |  Open to freelance engagements
 Location : Pakistan 🇵🇰
@@ -204,7 +204,7 @@ Location : Pakistan 🇵🇰
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  [01/08/2023 – 13/12/2025]  Cyber Silo Pvt. Ltd. — Islamabad    ║
+║  [01/03/2024 – 13/12/2025]  Cyber Silo Pvt. Ltd. — Islamabad    ║
 ║  Junior Penetration Tester & Security Analyst                    ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ▸ Weekly grey-box & black-box web application pentests          ║
