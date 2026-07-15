@@ -43,9 +43,10 @@
 ```yaml
 Name     : Muhammad Tayab Bashir
 Role     : Penetration Tester & Security Researcher
-Company  : Cyber Silo Pvt. Ltd.  [Jan 2023 – Dec 2025]
-Focus    : Web Pentesting · Network Security · OSINT · Bug Bounty
-Status   : ● ONLINE  |  Open to freelance engagements
+Company  : Cyber Silo Pvt. Ltd.  [Mar 2024 – Dec 2025]
+Certs    : PNPT (Passed) · CC in progress
+Focus    : Web Pentesting · Network Security · OSINT · Active Directory · Bug Bounty
+Status   : ● ONLINE  |  Available for engagements
 Location : Pakistan 🇵🇰
 ```
 
@@ -59,7 +60,6 @@ Location : Pakistan 🇵🇰
 + 7+    Companies rewarded on HackerOne & Bugcrowd
 + 2+    Year professional penetration testing experience
 + 100+  Vulnerability assessment reports authored
-- Preparing for PNTP certification (TCM Security)
 ```
 
 ---
@@ -176,13 +176,17 @@ Location : Pakistan 🇵🇰
 
 <div align="center">
 
-### `$ cat certs.txt | column -t`
+### `$ cat certs/training.txt | column -t`
 
 </div>
 
 | | Certification | Platform | Status |
 |--|--------------|----------|--------|
-| 🔴 | **PNTP** — Practical Network Penetration Testing | TCM Security | `IN PROGRESS` |
+| 🟢 | **PNTP** — Practical Network Penetration Testing | TCM Security | `✓ PASSED` |
+| 🟢 | **CC** — Certified in Cyber Security | (ISC)2 | `In Progress` |
+
+| | Cources | Platform | Status |
+|--|--------------|----------|--------|
 | 🟢 | Practical Ethical Hacking — The Complete Course | Udemy | `✓ VERIFIED` |
 | 🟢 | Bug Bounty Hunting with Burp Suite | Udemy | `✓ VERIFIED` |
 | 🟢 | Penetration Testing & Ethical Hacking | Cybrary | `✓ VERIFIED` |
@@ -204,7 +208,7 @@ Location : Pakistan 🇵🇰
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  [01/01/2023 – 13/12/2025]  Cyber Silo Pvt. Ltd. — Islamabad    ║
+║  [01/03/2024 – 13/12/2025]  Cyber Silo Pvt. Ltd. — Islamabad    ║
 ║  Junior Penetration Tester & Security Analyst                    ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ▸ Weekly grey-box & black-box web application pentests          ║
