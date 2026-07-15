@@ -55,15 +55,6 @@ Location : Pakistan 🇵🇰
 └─$ ./stats --show-all
 ```
 
-```diff
-+ 50+   Vulnerabilities found in first 6 months
-+ 7+    Companies rewarded on HackerOne & Bugcrowd
-+ 2+    Year professional penetration testing experience
-+ 100+  Vulnerability assessment reports authored
-```
-
----
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  BUG BOUNTY HALL OF FAME                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -164,7 +155,7 @@ Location : Pakistan 🇵🇰
 
 ### `$ ls -la ./achievements/`
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Tayab&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://muhammad-tayab.github.io/portfolio)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Tayab&theme=matrix&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://muhammad-tayab.github.io)
 
 </div>
 
