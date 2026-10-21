@@ -25,7 +25,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Tayab&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 ![](https://img.shields.io/badge/Status-Open%20to%20Freelance-00FF41?style=for-the-badge&logo=circle&logoColor=00FF41)
-![](https://img.shields.io/badge/Preparing-PNTP%20TCM%20Security-FF2200?style=for-the-badge&logo=readthedocs&logoColor=white)
+![](https://img.shields.io/badge/PNTP-Certified%20TCM%20Security-FF2200?style=for-the-badge&logo=readthedocs&logoColor=white)
 
 </div>
 
@@ -42,9 +42,9 @@
 
 ```yaml
 Name     : Muhammad Tayab Bashir
-Role     : Penetration Tester & Security Researcher
-Company  : Cyber Silo Pvt. Ltd.  [Mar 2024 – Dec 2025]
-Certs    : PNPT (Passed) · CC in progress
+Role     : Penetration Testing Specialist 
+Company  : OraSec (SMC) Private Limited [Current - 2026],  Cyber Silo Pvt. Ltd.  [Mar 2024 – Dec 2025]
+Certs    : PNPT Certified · CC in progress
 Focus    : Web Pentesting · Network Security · OSINT · Active Directory · Bug Bounty
 Status   : ● ONLINE  |  Available for engagements
 Location : Pakistan 🇵🇰
@@ -173,7 +173,7 @@ Location : Pakistan 🇵🇰
 
 | | Certification | Platform | Status |
 |--|--------------|----------|--------|
-| 🟢 | **PNTP** — Practical Network Penetration Testing | TCM Security | `✓ PASSED` |
+| 🟢 | **PNTP** — Practical Network Penetration Testing | TCM Security | `✓ Certified` |
 | 🟢 | **CC** — Certified in Cyber Security | (ISC)2 | `In Progress` |
 
 | | Cources | Platform | Status |
@@ -198,6 +198,19 @@ Location : Pakistan 🇵🇰
 ```
 
 ```
+
+
+╔══════════════════════════════════════════════════════════════════╗
+║  [03/08/2026 – Current]  OraSec (SMC) Private Limited — Remote   ║
+║  Penetration Testing Specialist                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ▸ Weekly grey-box & black-box web application, Network pentests ║
+║  ▸ OWASP Top 10: SQLi, XSS, CSRF, BAC, Business Logic Flaws      ║
+║  ▸ Vulnerability reports with CVSS scoring & remediation steps   ║
+║  ▸ PCI DSS compliance assessments                                ║
+║  ▸ Static code reviews, Nessus data analysis                     ║
+╚══════════════════════════════════════════════════════════════════╝
+
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [01/03/2024 – 13/12/2025]  Cyber Silo Pvt. Ltd. — Islamabad    ║
 ║  Junior Penetration Tester & Security Analyst                    ║
